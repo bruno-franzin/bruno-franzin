@@ -19,7 +19,7 @@ Transformo operações digitais em estruturas escaláveis, orientadas por dados 
 
 Sou profissional de e-commerce com experiência em gestão e expansão de operações em marketplaces. Atuo conectando estratégia comercial, mídia, catálogo, tecnologia e análise de dados para transformar vendas online em uma operação previsível e rentável.
 
-Minha trajetória inclui a gestão de operações com **faturamento de 7 dígitos**, além da implantação e expansão de marcas nos principais canais digitais do Brasil.
+Minha trajetória inclui a gestão de operações com **faturamento de 8 dígitos**, além da implantação e expansão de marcas nos principais canais digitais do Brasil.
 
 Atualmente, lidero operações de e-commerce no segmento industrial, com o desafio de estruturar uma operação multicanal com mais de **2.000 SKUs**.
 
