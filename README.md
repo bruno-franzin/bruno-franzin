@@ -1,35 +1,109 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Bruno Franzin!
+Olá, eu sou Bruno Franzin 👋
 
-**Desenvolvedor em formação focado em Back-End & APIs**
+Head de E-commerce | Marketplaces | Performance | Automação
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Transformo operações digitais em estruturas escaláveis, orientadas por dados e preparadas para crescer.
+
+
+
+
+
 
 </div>
 
----
+Sobre mim
 
-## 🚀 Sobre mim
+Sou profissional de e-commerce com experiência em gestão e expansão de operações em marketplaces. Atuo conectando estratégia comercial, mídia, catálogo, tecnologia e análise de dados para transformar vendas online em uma operação previsível e rentável.
 
-Estudante de **Back-End**, apaixonado por construir APIs limpas e funcionais. Gosto de aprender na prática, transformando ideias em código — do banco de dados até a resposta JSON.
+Minha trajetória inclui a gestão de operações que ultrapassaram R$ 8 milhões em faturamento, além da implantação e expansão de marcas nos principais canais digitais do Brasil.
 
-- 🎓 Estudando programação Web focada em Back-End
-- 💻 Aprendendo: **PHP**, **PostgreSQL**, **APIs REST** e **JSON**
-- 🧠 Sempre buscando evoluir nos fundamentos de banco de dados e lógica de programação
-- 🎯 Meta atual: dominar a criação de APIs REST bem estruturadas
+Atualmente, lidero operações de e-commerce no segmento industrial, com o desafio de estruturar uma operação multicanal com mais de 2.000 SKUs.
 
----
+📍 Americana, São Paulo, Brasil
 
-## 🛠️ Tecnologias que utilizo
+O que estou construindo
 
-| Tecnologia | Uso |
-|------------|-----|
-| **PHP 8+** | Desenvolvimento de APIs REST |
-| **PostgreSQL** | Banco de dados relacional |
-| **PDO** | Acesso seguro ao banco de dados |
-| **JSON** | Troca de dados nas APIs |
-| **Git / GitHub** | Versionamento e publicação de código |
+Estruturação completa de operações de e-commerce e marketplaces.
+
+Expansão de marcas do segmento industrial nos canais digitais.
+
+Integração de catálogo, pedidos e canais por meio do AnyMarket.
+
+Desenvolvimento do e-commerce próprio na Nuvemshop.
+
+Dashboards de gestão com receita, investimento, ROAS, TACOS, metas e projeções.
+
+Processos apoiados por inteligência artificial e automação.
+
+Uma consultoria própria focada em implantação e crescimento de operações digitais.
+
+Canais e plataformas
+
+
+
+
+
+
+
+
+Dados, gestão e produtividade
+
+
+
+
+
+
+
+Como eu trabalho
+
+Diagnóstico → Estratégia → Implantação → Mensuração → Otimização → Escala
+
+Decisões baseadas em dados, margem e eficiência operacional.
+
+Metas claras, indicadores diários e acompanhamento de tendências.
+
+Integração entre catálogo, mídia, preço, conteúdo e experiência do cliente.
+
+Testes rápidos, aprendizado contínuo e processos documentados.
+
+Tecnologia aplicada para reduzir tarefas manuais e aumentar a capacidade de execução.
+
+Principais indicadores que acompanho
+
+Comercial
+
+Mídia
+
+Operação
+
+Receita e crescimento
+
+ROAS e TACOS
+
+Pedidos e ticket médio
+
+Margem de contribuição
+
+CAC e conversão
+
+Projeção e atingimento de meta
+
+Comparativo entre canais
+
+Investimento por canal
+
+Performance diária e mensal
+
+Objetivo
+
+Construir operações de e-commerce que vendam mais, operem melhor e cresçam com controle — unindo estratégia, dados, tecnologia e execução.
+
+<div align="center">
+
+Estratégia para crescer. Dados para decidir. Execução para transformar.
+
+Aberto a conexões, projetos e conversas sobre e-commerce, marketplaces, performance e automação.
+
+</div>
