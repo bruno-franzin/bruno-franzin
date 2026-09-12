@@ -39,25 +39,24 @@ Atualmente, lidero operações de e-commerce no segmento industrial, com o desaf
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/mercadolivre/2D3277" width="52" height="52" alt="Mercado Livre"><br><strong>Mercado Livre</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/shopee/EE4D2D" width="52" height="52" alt="Shopee"><br><strong>Shopee</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/amazon/232F3E" width="52" height="52" alt="Amazon"><br><strong>Amazon</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/tiktok/000000" width="52" height="52" alt="TikTok Shop"><br><strong>TikTok Shop</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/magazineluiza/0086FF" width="52" height="52" alt="Magalu"><br><strong>Magalu</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/shein/000000" width="52" height="52" alt="SHEIN"><br><strong>SHEIN</strong></td>
-  </tr>
-</table>
+![Mercado Livre](https://img.shields.io/badge/Mercado_Livre-FFE600?style=for-the-badge&logo=mercadolivre&logoColor=2D3277)
+![Shopee](https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+
+![TikTok Shop](https://img.shields.io/badge/TikTok_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Magalu](https://img.shields.io/badge/Magalu-0086FF?style=for-the-badge&logo=magazineluiza&logoColor=white)
+![SHEIN](https://img.shields.io/badge/SHEIN-000000?style=for-the-badge&logo=shein&logoColor=white)
 
 </div>
+
+<!-- Elementos antigos ocultados após a atualização visual.
 
 ![Mercado Livre](https://img.shields.io/badge/Mercado_Livre-FFE600?style=flat-square&logo=mercadolibre&logoColor=2D3277)
 ![Shopee](https://img.shields.io/badge/Shopee-EE4D2D?style=flat-square&logo=shopee&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=amazon&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok_Shop-000000?style=flat-square&logo=tiktok&logoColor=white)
+-->
+
 ## Dados, gestão e produtividade
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
