@@ -37,21 +37,6 @@ Atualmente, lidero operações de e-commerce no segmento industrial, com o desaf
 
 ## Canais e plataformas
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/mercadolivre/2D3277" width="52" height="52" alt="Mercado Livre"><br><strong>Mercado Livre</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/shopee/EE4D2D" width="52" height="52" alt="Shopee"><br><strong>Shopee</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/amazon/232F3E" width="52" height="52" alt="Amazon"><br><strong>Amazon</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/tiktok/000000" width="52" height="52" alt="TikTok Shop"><br><strong>TikTok Shop</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/magazineluiza/0086FF" width="52" height="52" alt="Magalu"><br><strong>Magalu</strong></td>
-    <td align="center" width="130"><img src="https://cdn.simpleicons.org/shein/000000" width="52" height="52" alt="SHEIN"><br><strong>SHEIN</strong></td>
-  </tr>
-</table>
-
 </div>
 
 ![Mercado Livre](https://img.shields.io/badge/Mercado_Livre-FFE600?style=flat-square&logo=mercadolibre&logoColor=2D3277)
