@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o IAGPT!
+# 👋 Olá, eu sou o Bruno Franzin!
 
 **Desenvolvedor em formação focado em Back-End & APIs**
 
