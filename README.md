@@ -37,17 +37,12 @@ Atualmente, lidero operações de e-commerce no segmento industrial, com o desaf
 
 ## Canais e plataformas
 
-<div align="center">
-
 ![Mercado Livre](https://img.shields.io/badge/Mercado_Livre-FFE600?style=for-the-badge&logo=mercadolivre&logoColor=2D3277)
 ![Shopee](https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
-
 ![TikTok Shop](https://img.shields.io/badge/TikTok_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![Magalu](https://img.shields.io/badge/Magalu-0086FF?style=for-the-badge&logo=magazineluiza&logoColor=white)
 ![SHEIN](https://img.shields.io/badge/SHEIN-000000?style=for-the-badge&logo=shein&logoColor=white)
-
-</div>
 
 <!-- Elementos antigos ocultados após a atualização visual.
 
